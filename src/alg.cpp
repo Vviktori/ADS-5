@@ -1,6 +1,7 @@
 // Copyright 2021 NNTU-CS
 #include <map>
 #include "tstack.h"
+#include <string>
 
 int Prioritet(char x) {
   switch (x) {
